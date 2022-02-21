@@ -1,0 +1,8 @@
+c:
+|_dir1
+| |_dir2
+| | |_dir3
+| | | |_readme.txt
+| |_edir4
+| | |_temp.dat
+| |_gdir5

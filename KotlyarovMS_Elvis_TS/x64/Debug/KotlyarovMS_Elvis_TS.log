@@ -1,0 +1,8 @@
+﻿  Catalog.cpp
+  File.cpp
+  FileSystem.cpp
+  Link.cpp
+  Main.cpp
+  Создание кода...
+C:\Users\Михаил\Desktop\KotlyarovMS_Elvis_TS\KotlyarovMS_Elvis_TS\FileSystem.cpp(142): warning C4715: FileSystem::readPath: значение возвращается не при всех путях выполнения
+  KotlyarovMS_Elvis_TS.vcxproj -> C:\Users\Михаил\Desktop\KotlyarovMS_Elvis_TS\x64\Debug\KotlyarovMS_Elvis_TS.exe
